@@ -1,2 +1,2 @@
-# AI-SytemMnaagement
+# AI-SystemManagement
 SystemManagement AI Modules
